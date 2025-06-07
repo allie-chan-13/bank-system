@@ -1,6 +1,7 @@
 import logging
 from services.helpers import validate_account_name, validate_positive_number
 
+
 def get_valid_input(prompt, validation_func):
     """Prompt user for input until valid input is received."""
     

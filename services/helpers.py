@@ -1,3 +1,6 @@
+"""
+General helper functions for basic operations
+"""
 
 def validate_account_name(name):
     
